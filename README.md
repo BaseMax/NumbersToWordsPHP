@@ -15,4 +15,15 @@ Tiny library to convert numbers to words.
 - nine
 - ten
 
+- eleven
+- twelve
+- thirteen
+- fourteen
+- fifteen
+- sixteen
+- seventeen
+- eighteen
+- nineteen
+
+
 ## Counting Units
