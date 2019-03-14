@@ -52,4 +52,8 @@ septillion
 octillion
 nonillion
 decillion
+undecillion
+duodecillion
+tredecillion
+
 
