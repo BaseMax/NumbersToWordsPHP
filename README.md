@@ -14,7 +14,7 @@ Tiny library to convert numbers to words.
 - eight
 - nine
 - ten
-
+-------------
 - eleven
 - twelve
 - thirteen
@@ -25,5 +25,6 @@ Tiny library to convert numbers to words.
 - eighteen
 - nineteen
 
+## Count of ten units
 
 ## Counting Units
