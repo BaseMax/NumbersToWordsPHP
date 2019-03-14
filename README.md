@@ -58,3 +58,7 @@ tredecillion
 quattuordecillion
 quindecillion
 sexdecillion
+septendecillion
+octodecillion
+novemdecillion
+vigintillion
