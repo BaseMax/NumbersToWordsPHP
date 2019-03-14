@@ -27,4 +27,15 @@ Tiny library to convert numbers to words.
 
 ## Count of ten units
 
+ten
+twenty
+thirty
+forty
+fifty
+sixty
+seventy
+eighty
+ninety
+hundred
+
 ## Counting Units
