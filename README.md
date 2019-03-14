@@ -55,5 +55,6 @@ decillion
 undecillion
 duodecillion
 tredecillion
-
-
+quattuordecillion
+quindecillion
+sexdecillion
