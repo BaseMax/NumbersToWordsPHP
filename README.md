@@ -44,3 +44,8 @@ Tiny library to convert numbers to words.
 - million
 - billion
 
+trillion
+quadrillion
+quintillion
+sextillion
+septillion
