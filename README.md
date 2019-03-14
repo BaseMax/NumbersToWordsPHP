@@ -49,3 +49,7 @@ quadrillion
 quintillion
 sextillion
 septillion
+octillion
+nonillion
+decillion
+
