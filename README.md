@@ -39,3 +39,8 @@ Tiny library to convert numbers to words.
 - hundred
 
 ## Counting Units
+
+thousand
+million
+billion
+
