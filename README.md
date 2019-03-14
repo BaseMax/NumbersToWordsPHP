@@ -61,3 +61,4 @@ Tiny library to convert numbers to words.
 - octodecillion
 - novemdecillion
 - vigintillion
+- centillion (Learned from [https://en.wikipedia.org/wiki/Names_of_large_numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers))
