@@ -62,3 +62,21 @@ Tiny library to convert numbers to words.
 - novemdecillion
 - vigintillion
 - centillion (Learned from [https://en.wikipedia.org/wiki/Names_of_large_numbers](https://en.wikipedia.org/wiki/Names_of_large_numbers))
+
+```
+Ten: 10 (1 zero)
+Hundred: 100 (2 zeros)
+Thousand: 1000 (3 zeros)
+Ten thousand 10,000 (4 zeros)
+Hundred thousand 100,000 (5 zeros)
+Million 1,000,000 (6 zeros)
+Billion 1,000,000,000 (9 zeros)
+Trillion 1,000,000,000,000 (12 zeros)
+Quadrillion 1,000,000,000,000,000 (15 zeros)
+Quintillion 1,000,000,000,000,000,000 (18 zeros)
+Sextillion 1,000,000,000,000,000,000,000 (21 zeros)
+Septillion 1,000,000,000,000,000,000,000,000 (24 zeros)
+Octillion 1,000,000,000,000,000,000,000,000,000 (27 zeros)
+Nonillion 1,000,000,000,000,000,000,000,000,000,000 (30 zeros)
+Decillion 1,000,000,000,000,000,000,000,000,000,000,000 (33 zeros)
+```
