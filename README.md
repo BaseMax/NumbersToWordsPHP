@@ -40,7 +40,7 @@ Tiny library to convert numbers to words.
 
 ## Counting Units
 
-thousand
-million
-billion
+- thousand
+- million
+- billion
 
