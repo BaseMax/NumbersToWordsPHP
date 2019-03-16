@@ -4,6 +4,8 @@ Tiny library to convert numbers to words.
 
 ## Supported languages
 
+- English
+
 ## Numbers fixed
 
 - one
