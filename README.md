@@ -5,6 +5,8 @@ Tiny library to convert numbers to words.
 ## Supported languages
 
 - English
+- Persian (Soon)
+- French and other (Need to partner with friends)
 
 ## Numbers fixed
 
