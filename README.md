@@ -2,6 +2,8 @@
 
 Tiny library to convert numbers to words.
 
+## Supported languages
+
 ## Numbers fixed
 
 - one
