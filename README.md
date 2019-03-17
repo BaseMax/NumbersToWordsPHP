@@ -6,7 +6,7 @@ Tiny library to convert numbers to words.
 
 - English
 - Persian (Soon)
-- Hindi
+- Hindi (Soon)
 - Tamil
 - French and other (Need to partner with friends)
 
