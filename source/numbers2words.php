@@ -9,3 +9,5 @@
 * @Repository : https://github.com/BaseMax/NumbersToWordsPHP
 *
 **/
+class N2W {
+}
